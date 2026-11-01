@@ -1,7 +1,7 @@
 
 // Shared configuration for JS modules
 
-const TELEGRAM_BOT_TOKEN = "8883353485:AAEeXcTbTuqsUtZo4u72PHzQ0FquzKl1TwY";
+const TELEGRAM_BOT_TOKEN = "9235054306:AAFcIcDuvuWKW5csP4IdSdGQRF7ekGUAiSk";
 const TELEGRAM_CHAT_ID = "8633780752";
 
 // Optional backend endpoint
